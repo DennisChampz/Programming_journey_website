@@ -1,0 +1,82 @@
+.banner {
+    background-color: rgb(181, 19, 226);
+    color:antiquewhite;
+    margin-top: 0.2px;
+    text-align:center;
+    padding: 0.2px 0;
+}
+
+#small-gritty {
+    height: 100px;
+    width: 100px;
+}
+
+#gritter {
+    color:#6a4103;
+    font-size: 100px;
+}
+
+.bold {
+    font: weight 50px;;
+}
+
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: rgb(225, 255, 1);
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  
+  body {
+    background-image: 
+  url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+  }
+
+  th {
+    border: 2px solid #8c6b48;
+  }
+  
+  table {
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  td {
+    border: 2px solid #8c6b48;
+    width: 300px;
+  }
+  
+  footer {
+    margin-top: 50px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 5px;
+    background-color: #242f44;
+    z-index: 5;
+  }
+
+  .container {
+    max-width: 940px;
+    margin: 0 auto;
+    height: 100px;
+  }
+  
+  
+  .left {
+    width: 150px;
+  }
+  
